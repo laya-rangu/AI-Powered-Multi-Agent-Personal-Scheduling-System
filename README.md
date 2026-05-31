@@ -1,6 +1,4 @@
-# FocusFlow AI
-
-FocusFlow AI is a single-user, local-first productivity assistant that turns daily tasks, goals, and calendar availability into a structured daily plan.
+AI Powered Multi Agent Personal Schudeling System is a single-user, local-first productivity assistant that turns daily tasks, goals, and calendar availability into a structured daily plan.
 
 This first implementation pass covers:
 
